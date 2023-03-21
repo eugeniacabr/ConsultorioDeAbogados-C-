@@ -1,0 +1,30 @@
+C:\Users\Usuario\OneDrive\Documentos\SharpDevelop Projects\Proyecto extensivo\Programa principal\obj\Debug\Programa principal.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\OneDrive\Documentos\SharpDevelop Projects\Proyecto extensivo\Programa principal\bin\Debug\Programa principal.exe.config
+C:\Users\Usuario\OneDrive\Documentos\SharpDevelop Projects\Proyecto extensivo\Programa principal\bin\Debug\Programa principal.exe
+C:\Users\Usuario\OneDrive\Documentos\SharpDevelop Projects\Proyecto extensivo\Programa principal\bin\Debug\Programa principal.pdb
+C:\Users\Usuario\OneDrive\Documentos\SharpDevelop Projects\Proyecto extensivo\Programa principal\obj\Debug\Programa principal.exe
+C:\Users\Usuario\OneDrive\Documentos\SharpDevelop Projects\Proyecto extensivo\Programa principal\obj\Debug\Programa principal.pdb
+C:\Users\valem\Downloads\Proyecto extensivo\Programa principal\obj\Debug\Programa principal.csprojResolveAssemblyReference.cache
+C:\Users\valem\Downloads\Proyecto extensivo\Programa principal\obj\Debug\Programa principal.exe
+C:\Users\valem\Downloads\Proyecto extensivo\Programa principal\bin\Debug\Programa principal.exe.config
+C:\Users\valem\Downloads\Proyecto extensivo\Programa principal\bin\Debug\Programa principal.exe
+C:\Users\valem\Downloads\Proyecto extensivo\Programa principal\bin\Debug\Programa principal.pdb
+C:\Users\valem\Downloads\Proyecto extensivo\Programa principal\obj\Debug\Programa principal.pdb
+C:\Users\valem\Downloads\Programa principal (1) (1)\Programa principal\bin\Debug\Programa principal.exe.config
+C:\Users\valem\Downloads\Programa principal (1) (1)\Programa principal\bin\Debug\Programa principal.exe
+C:\Users\valem\Downloads\Programa principal (1) (1)\Programa principal\bin\Debug\Programa principal.pdb
+C:\Users\valem\Downloads\Programa principal (1) (1)\Programa principal\obj\Debug\Programa principal.csprojResolveAssemblyReference.cache
+C:\Users\valem\Downloads\Programa principal (1) (1)\Programa principal\obj\Debug\Programa principal.exe
+C:\Users\valem\Downloads\Programa principal (1) (1)\Programa principal\obj\Debug\Programa principal.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Programa principal\bin\Debug\Programa principal.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Programa principal\bin\Debug\Programa principal.exe
+C:\Users\Usuario\OneDrive\Escritorio\Programa principal\bin\Debug\Programa principal.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Programa principal\obj\Debug\Programa principal.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Programa principal\obj\Debug\Programa principal.exe
+C:\Users\Usuario\OneDrive\Escritorio\Programa principal\obj\Debug\Programa principal.pdb
+C:\Users\valem\Downloads\hoy profe\Programa principal\bin\Debug\Programa principal.exe.config
+C:\Users\valem\Downloads\hoy profe\Programa principal\bin\Debug\Programa principal.exe
+C:\Users\valem\Downloads\hoy profe\Programa principal\bin\Debug\Programa principal.pdb
+C:\Users\valem\Downloads\hoy profe\Programa principal\obj\Debug\Programa principal.csprojResolveAssemblyReference.cache
+C:\Users\valem\Downloads\hoy profe\Programa principal\obj\Debug\Programa principal.exe
+C:\Users\valem\Downloads\hoy profe\Programa principal\obj\Debug\Programa principal.pdb
